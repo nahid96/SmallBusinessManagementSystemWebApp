@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.757
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmallBusinessManagementSystemWebApp", "SmallBusinessManagementSystemWebApp\SmallBusinessManagementSystemWebApp.csproj", "{685CACBF-62EE-4DCE-B0B1-45D7672EF5CA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmallBusinessManagementSystemWebApp.Models", "SmallBusinessManagementSystemWebApp.Models\SmallBusinessManagementSystemWebApp.Models.csproj", "{A3511EC3-4E68-4AFD-863D-7F5648D27628}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{685CACBF-62EE-4DCE-B0B1-45D7672EF5CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{685CACBF-62EE-4DCE-B0B1-45D7672EF5CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{685CACBF-62EE-4DCE-B0B1-45D7672EF5CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{685CACBF-62EE-4DCE-B0B1-45D7672EF5CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A3511EC3-4E68-4AFD-863D-7F5648D27628}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3511EC3-4E68-4AFD-863D-7F5648D27628}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3511EC3-4E68-4AFD-863D-7F5648D27628}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3511EC3-4E68-4AFD-863D-7F5648D27628}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D2938CEB-C244-400E-8BD5-8806DA2A905F}
+	EndGlobalSection
+EndGlobal
